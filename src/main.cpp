@@ -1,6 +1,7 @@
-#include "PrintHello.hpp"
+#include "Gra.hpp"
+#include <memory>
 
 int main()
 {
-    printHello();
+    Gra gra;
 }
